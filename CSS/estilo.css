@@ -1,0 +1,72 @@
+.principal {
+    background-color: rgb(106, 0, 255);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.contenedor {
+    background-color: chartreuse;
+    width: 370px;
+    height: 500px;
+    margin: 10px;
+    border-radius: 5%;
+    
+}
+.caja1{
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+}
+.caja-1{
+    background-color: blue;
+    width: 88px;
+    height: 100px;
+    transform: rotate(18deg);
+    margin: 15px;
+}
+.caja2{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+.caja-2{
+    background-color: rgb(30, 13, 108);
+    width: 350px;
+    height: 70px;
+    margin: 5px;
+}
+.caja3{
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+}
+.caja-3{
+    background-color: rgb(3, 205, 255);
+    width: 110px;
+    height: 100px;
+    margin: 5px;
+}
+.caja4{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+.caja-4{
+    background-color: darkorchid;
+    width: 350px;
+    height: 80px;
+    margin: 5px;
+}
+
+.caja5{
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+}
+.caja-5{
+    background-color: rgb(88, 0, 0);
+    width: 150px;
+    height: 170px;
+    margin: 8px;
+    
+}
